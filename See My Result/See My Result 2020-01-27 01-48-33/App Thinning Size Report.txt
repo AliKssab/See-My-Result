@@ -1,0 +1,57 @@
+
+App Thinning Size Report for All Variants of See My Result
+
+Variant: See My Result-3FB3154F-7DFC-4132-868D-A8486498FE46.ipa
+Supported variant descriptors: [device: iPad5,2, os-version: 12], [device: iPad4,6, os-version: 12], [device: iPad5,4, os-version: 12], [device: iPad4,5, os-version: 12], [device: iPad4,3, os-version: 12], [device: iPad4,4, os-version: 12], [device: iPad4,9, os-version: 12], [device: iPad6,11, os-version: 12], [device: iPad7,5, os-version: 12], [device: iPad4,7, os-version: 12], [device: iPad4,2, os-version: 12], [device: iPad4,8, os-version: 12], [device: iPad6,8, os-version: 12], [device: iPad5,1, os-version: 12], [device: iPad5,3, os-version: 12], [device: iPad7,6, os-version: 12], [device: iPad6,7, os-version: 12], [device: iPad4,1, os-version: 12], and [device: iPad6,12, os-version: 12]
+App + On Demand Resources size: 3.9 MB compressed, 11 MB uncompressed
+App size: 3.9 MB compressed, 11 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: See My Result-70483C87-9D59-46D2-83F7-167EFA785BEE.ipa
+Supported variant descriptors: [device: iPad8,1, os-version: 12], [device: iPad8,8, os-version: 12], [device: iPad6,3, os-version: 12], [device: iPad7,4, os-version: 12], [device: iPad7,2, os-version: 12], [device: iPad8,3, os-version: 12], [device: iPad8,4, os-version: 12], [device: iPad6,4, os-version: 12], [device: iPad8,6, os-version: 12], [device: iPad8,2, os-version: 12], [device: iPad8,5, os-version: 12], [device: iPad7,3, os-version: 12], [device: iPad8,7, os-version: 12], and [device: iPad7,1, os-version: 12]
+App + On Demand Resources size: 3.9 MB compressed, 11 MB uncompressed
+App size: 3.9 MB compressed, 11 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: See My Result-7C31EC0B-C3D9-41A1-9039-6908475DE562.ipa
+Supported variant descriptors: [device: iPhone10,6, os-version: 12], [device: iPhone10,5, os-version: 12], [device: iPhone11,2, os-version: 12], [device: iPhone11,4, os-version: 12], [device: iPhone10,3, os-version: 12], [device: iPhone9,2, os-version: 12], [device: iPhone9,4, os-version: 12], [device: iPhone10,2, os-version: 12], and [device: iPhone11,6, os-version: 12]
+App + On Demand Resources size: 3.9 MB compressed, 11 MB uncompressed
+App size: 3.9 MB compressed, 11 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: See My Result-7C8967B1-3153-4FEE-B6A6-19B832B8B39B.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12] and [device: iPhone7,1, os-version: 11]
+App + On Demand Resources size: 3.9 MB compressed, 11 MB uncompressed
+App size: 3.9 MB compressed, 11 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: See My Result-7CBCA364-7503-4789-B15A-60864D8902FE.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12]
+App + On Demand Resources size: 3.9 MB compressed, 11 MB uncompressed
+App size: 3.9 MB compressed, 11 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: See My Result-B5A5CD6E-1929-43D7-B2BB-C3451356126D.ipa
+Supported variant descriptors: [device: iPod7,1, os-version: 12], [device: iPhone8,4, os-version: 12], [device: iPhone6,2, os-version: 12], [device: iPhone6,1, os-version: 12], [device: iPhone8,1, os-version: 12], and [device: iPhone7,2, os-version: 12]
+App + On Demand Resources size: 3.9 MB compressed, 11 MB uncompressed
+App size: 3.9 MB compressed, 11 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: See My Result-E16610A5-B770-4655-99CB-01E1E5E95281.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 12], [device: iPhone10,1, os-version: 12], [device: iPhone9,3, os-version: 12], and [device: iPhone10,4, os-version: 12]
+App + On Demand Resources size: 3.9 MB compressed, 11 MB uncompressed
+App size: 3.9 MB compressed, 11 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: See My Result.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 4.7 MB compressed, 11 MB uncompressed
+App size: 4.7 MB compressed, 11 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed

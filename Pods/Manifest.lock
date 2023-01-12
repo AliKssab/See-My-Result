@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.6.4)
+  - MOLH (1.4.3)
+  - SideMenuSwift (2.0.9)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+  - MOLH
+  - SideMenuSwift
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MOLH
+    - SideMenuSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  MOLH: e45827d200aeb1310641090fd8cd03ad2b42ae72
+  SideMenuSwift: 39f1922e225da4aaa8b16591037a929defe960c9
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 1d720956ce4f2c42ec3de4e2f8afca2a5f50d6de
+
+COCOAPODS: 1.11.3

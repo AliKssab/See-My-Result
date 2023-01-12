@@ -1,0 +1,6 @@
+framework module Pods_See_My_Result {
+  umbrella header "Pods-See My Result-umbrella.h"
+
+  export *
+  module * { export * }
+}
